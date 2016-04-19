@@ -6,8 +6,8 @@ public class NumbersToWordsTest {
   @Test
   public void turnNumbersToWords_singleDigits_String() {
     NumbersToWords turnNumbersToWords = new NumbersToWords();
-    String expected = ["one"];
-    assertEquals(expected, turnNumbersToWords.turnNumbersToWords(1));
+    String expected = "one";
+    assertEquals(expected, turnNumbersToWords.turnNumbersToWords("1"));
   }
 
 }
