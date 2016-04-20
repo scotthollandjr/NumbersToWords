@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NumbersToWordsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-04-19T23:18:55" hostname="epicodus-51.local" time="0.001">
+<testsuite name="NumbersToWordsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-04-20T00:02:50" hostname="epicodus-51.local" time="0.002">
   <properties/>
   <testcase name="turnNumbersToWords_singleDigits_String" classname="NumbersToWordsTest" time="0.001"/>
+  <testcase name="turnNumbersToWords_tripleDigits_String" classname="NumbersToWordsTest" time="0.0"/>
+  <testcase name="turnNumbersToWords_teens_String" classname="NumbersToWordsTest" time="0.001"/>
+  <testcase name="turnNumbersToWords_doubleDigits_String" classname="NumbersToWordsTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
