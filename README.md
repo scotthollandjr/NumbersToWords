@@ -15,7 +15,7 @@ _This website will use HTML, CSS, and Java_
 
 Install the project files by following the link below and cloning this repository:
 
-https://github.com/theAppanaut/JavaPingPong.git
+https://github.com/theAppanaut/NumbersToWords.git
 
 
 #### License
